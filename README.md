@@ -1,20 +1,20 @@
 ![BannerForest](forest.jpg)
 <h1 align="center">Hi, I am Kfasso</h1>
 <br/><br/>
-<div>
+<div align="center">
   <div>
     <div width="200"></div>
-    <img src="https://i.pinimg.com/736x/39/84/06/398406f989fa18239001520596a6e840.jpg" align="left" width="170">
-    <br/><br/><br/><br/>
-  	<p>
-  		&nbsp;&#10022; I am passionate about technology<br>
+    <img src="https://i.pinimg.com/736x/39/84/06/398406f989fa18239001520596a6e840.jpg" width="170">
+    <br/>
+	  <p>
+	  &nbsp;&#10022; I am passionate about technology<br>
   	  &nbsp;&#10022;🏀I like to play basketball<br>
   	  &nbsp;&#10022;🎓Systems Engineer<br>
   	  &nbsp;&#10022;♨️Student of upc.edu.pe<br>
 	  </p>
   </div>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div align = "center">
 <a href="https://www.linkedin.com/in/limber-lazaro" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/Limberlb" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
